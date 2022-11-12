@@ -1,1 +1,2 @@
 "Welcome to IIC lab"
+"Welcome to the afternoon session of the workshop"
